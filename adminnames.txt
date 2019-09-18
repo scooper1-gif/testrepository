@@ -1,0 +1,9 @@
+List of adminitrators of git
+
+Michael Bauer
+Robin Keller
+Pratik Surti
+Arjun Bastola
+Jefferson Sampson
+Joe DosAnjos
+Jeff Rutkowski
